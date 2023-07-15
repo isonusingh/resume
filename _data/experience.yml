@@ -3,10 +3,10 @@
 - company: UST
   position: Lead I - Product Engineering
   duration: Aug, 2018 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary:  specialize in Big Data product development, specifically working on Qubz and Explorer using Java, Spring Boot, Hadoop technologies, Apache Spark, and Trino. I led the development of a Trino-based application that can connect to multiple databases, run federated queries using different databases, and bring data to the local Data Warehouse. Additionally, I developed Rest API Web Services for the application, ensuring its scalability and reliability. I am responsible for the build, deployment, and release process of the applications, managing CI/CD, and managing applications on the cloud (AWS and AZURE). I also design MongoDB and NoSQL and am involved in code review and managing the GitLab codebase.	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 # Director of Digital Stratgy
 - company: Virtusa
   position: Associate Consultant
   duration:  Jul, 2015 &mdash; Aug, 2018
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: I contributed to the development of multiple Standard Chartered's banking applications, including CEMS and Service Journey (CSL). My responsibilities included front-end and back-end development, as well as designing MicroServices and Restful WebServices. I was responsible for implementing the validation of business rules and developing JUnit test cases to ensure application functionality. Additionally, I worked closely with the business team to resolve issues and clarify requirements. During my tenure, I played a crucial role in bug fixing and providing support for deployment-related activities at SIT/UAT/Production stages.
