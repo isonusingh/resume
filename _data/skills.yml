@@ -1,12 +1,36 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Java
+#  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Spring Boot
+#  description: Content and marketing strategy,
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Microservices
+#  description: Copy writing, graphic design, web design, front-end web development, print design
+  
+# Digital content development and creation
+- skill: AWS
+#  description: Copy writing, graphic design, web design, front-end web development, print design
+  
+# Digital content development and creation
+- skill: Big Data
+#  description: Copy writing, graphic design, web design, front-end web development, print design
+  
+# Digital content development and creation
+- skill: Hadoop
+#  description: Copy writing, graphic design, web design, front-end web development, print design
+  
+# Digital content development and creation
+- skill: Apache Spark
+#  description: Copy writing, graphic design, web design, front-end web development, print design
+  
+ # Digital content development and creation
+- skill: Apache Kylin
+#  description: Copy writing, graphic design, web design, front-end web development, print design
+  
+# Digital content development and creation
+- skill: Trino
+#  description: Copy writing, graphic design, web design, front-end web development, print design
